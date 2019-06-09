@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package manejodearchivos;
+package ec.ud.ups.manedoDeArchivo;
 
 import java.io.File;
 
